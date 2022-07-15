@@ -1,0 +1,17 @@
+1657872864396	geckodriver	INFO	Listening on 127.0.0.1:64824
+1657872867525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileGp0QtT"
+1657872868068	Marionette	INFO	Marionette enabled
+1657872868075	Marionette	INFO	Listening on port 64834
+WebDriver BiDi listening on ws://localhost:64825
+Read port: 64834
+1657872868729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell\\AppData\\Local\\Temp\\rust_mozprofileGp0QtT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64825/devtools/browser/ea197856-b73f-450f-b176-4f7f69f8dab0
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/admin/lib/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80032.1, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80032.1, line 564: unreachable code after return statement
+1657872884812	Marionette	INFO	Stopped listening on port 64834
+[Parent 11760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

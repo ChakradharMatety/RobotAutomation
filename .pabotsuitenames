@@ -1,0 +1,6 @@
+datasources:a5e29dac149782d3400d65ca6aaf0bc8bc248e22
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:aac519e4dadb27848c89ea7713c8f8818a176774
+--suite Suites.Alerts
+--suite Suites.Draganddrop
